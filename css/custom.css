@@ -1,0 +1,140 @@
+.fc-content {
+	padding: 0.2rem;
+}
+.fc-content #event_delete {
+	cursor: pointer;
+	position: absolute;
+	right: -2rem;
+	transition: right 100ms;
+	top: 3%;
+	bottom: 0;
+	height: 0.8rem;
+	width: 0.8rem;
+	z-index: 99999;
+}
+.fc-content:hover #event_delete {
+	right: 1rem;
+}
+
+.custom-file, .custom-file-input, .custom-file-label {cursor: pointer;}
+
+input[type=number]#inputControlNo::-webkit-inner-spin-button, 
+input[type=number]#inputControlNo::-webkit-outer-spin-button,
+input[type=number]#inputRNumber::-webkit-inner-spin-button, 
+input[type=number]#inputRNumber::-webkit-outer-spin-button,
+input[type=number]#inputLandSize::-webkit-inner-spin-button, 
+input[type=number]#inputLandSize::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+}
+
+input[type=number]#inputControlNo,
+input[type=number]#inputRNumber,
+input[type=number]#inputLandSize {
+  -moz-appearance:textfield;
+}
+
+.full_name div ul {padding:0px; margin: 0px;}
+.full_name div ul li {display: inline-block; margin-right: 15px; }
+.full_name div { position: relative; overflow: hidden; height: 25px;}
+.full_name div ul {position: absolute; bottom: -100px; transition: bottom 100ms;}
+.full_name:hover ul {bottom: 0px;}
+
+.table tbody tr td {vertical-align: middle;}
+
+.bg-login-img {
+	background: url('../img/da_logo-x2.png');
+	background-position: center;
+	background-size: cover;
+}
+
+
+.fc-content {
+	padding: 0.2rem;
+}
+.fc-content #event_delete {
+	cursor: pointer;
+	position: absolute;
+	right: -2rem;
+	transition: right 100ms;
+	top: 3%;
+	bottom: 0;
+	height: 0.8rem;
+	width: 0.8rem;
+	z-index: 99999;
+}
+.fc-content:hover #event_delete {
+	right: 1rem;
+}
+
+.custom-file, .custom-file-input, .custom-file-label {cursor: pointer;}
+
+input[type=number]#inputControlNo::-webkit-inner-spin-button, 
+input[type=number]#inputControlNo::-webkit-outer-spin-button,
+input[type=number]#inputRNumber::-webkit-inner-spin-button, 
+input[type=number]#inputRNumber::-webkit-outer-spin-button,
+input[type=number]#inputLandSize::-webkit-inner-spin-button, 
+input[type=number]#inputLandSize::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+}
+
+input[type=number]#inputControlNo,
+input[type=number]#inputRNumber,
+input[type=number]#inputLandSize {
+  -moz-appearance:textfield;
+}
+
+.full_name div ul {padding:0px; margin: 0px;}
+.full_name div ul li {display: inline-block; margin-right: 15px; }
+.full_name div { position: relative; overflow: hidden; height: 25px;}
+.full_name div ul {position: absolute; bottom: -100px; transition: bottom 100ms;}
+.full_name:hover ul {bottom: 0px;}
+
+
+.event_name div ul {padding:0px; margin: 0px;}
+.event_name div ul li {display: inline-block; margin-right: 15px; }
+.event_name div { position: relative; overflow: hidden; height: 25px;}
+.event_name div ul {position: absolute; bottom: -100px; transition: bottom 100ms;}
+.event_name:hover ul {bottom: 0px;}
+
+
+
+
+
+.table tbody tr td {vertical-align: middle;}
+
+.bg-login-img {
+	background: url('../img/da_logo-x2.png');
+	background-position: center;
+	background-size: cover;
+}
+
+.sidebar_main{
+	  background: #052619;
+}
+
+.topbar{
+	background: #055420;
+		color: #F7CB19;
+}
+.sidebar_main li i{
+  min-width: 60px;
+  text-align: center;
+  font-size: 18px;
+  color: #F7CB19;
+}
+
+.sidebar_main .nav-link{
+	 color: #fff;
+}
+
+.sidebar_main .sidebar-brand{
+	color: #fff;
+}
+
+.sidebar_main .nav-item .active{
+  background: #062E21;
+}
+.sidebar_main .nav-item :hover{
+  background: #083629;
+}
+
